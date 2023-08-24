@@ -1,0 +1,61 @@
+.create-user {
+   border-radius: 0;
+}
+
+.create-user__header {
+   border-bottom: 0;
+}
+
+.create-user__body {
+   padding: 40px 50px 40px 50px;
+}
+
+.create-user__title {
+   font: normal normal 600 36px/48px Segoe UI;
+   letter-spacing: 0px;
+   color: #000000;
+}
+
+.create-user .modal-content {
+   border-radius: 0;
+   border: 0;
+}
+
+.create-user__input {
+   border: 0;
+   outline: 0;
+   border-bottom: 2px solid #ddd;
+   width: 100%;
+}
+
+.create-user__label {
+   font: normal normal 600 12px/16px Segoe UI;
+   letter-spacing: 0px;
+   color: #33A3DC;
+}
+
+.create-user__button {
+   background-color: #44A0D3;
+   border-radius: 50px;
+   border: 0;
+   padding-left: 30px;
+   padding-right: 30px;
+   height: 41px;
+}
+
+.create-user__validation {
+   font: italic normal 300 16px/21px Segoe UI;
+   letter-spacing: 0px;
+}
+
+.create-user__validation-valid {
+   color: #44D36A;
+}
+
+.create-user__validation-invalid {
+   color: #F89797;
+}
+
+.modal-dialog {
+   max-width: 646px; /* New width for default modal */
+ }

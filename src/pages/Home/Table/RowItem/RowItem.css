@@ -1,0 +1,21 @@
+.table-user-row__admin-icon-key {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 48px;
+   height: 32px;
+   background-color: #7E7EF1;
+   border-radius: 30px;
+   left: -40px;
+   top: 50%;
+   transform: translateY(-50%);
+}
+
+.table-user-row__actions-icons {
+   cursor: pointer;
+   transition: all 0.3s;
+}
+
+.table-user-row__actions-icons:hover {
+   transform: scale(1.3);
+}

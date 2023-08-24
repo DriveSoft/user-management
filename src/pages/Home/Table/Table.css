@@ -1,0 +1,18 @@
+.table-users {
+   margin-top: 50px;
+}
+
+.table-users__table td,
+.table-users__table th {
+   background-color: #f3f3f3 !important;
+}
+
+.table-users__header {
+   height: 70px;
+   font: normal normal 600 16px/21px Segoe UI;
+}
+
+.no-bottom-border {
+   border-bottom: 0;
+   width: 100px;
+}
